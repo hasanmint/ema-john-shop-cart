@@ -12,5 +12,10 @@
 .products-container{
     display: grid;
     grid-template-columns: repeat(3,1fr);
-    gap: 50px;
+    gap: 25px;
+}
+
+.cart-container{
+    background-color: #FF9900;
+    margin-left: 20px;
 }
